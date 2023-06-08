@@ -6,9 +6,8 @@ function hasKey(key) {
 return true
 }
 	else{
-		false
+		return false
 	}
-
 	
 }
 const key = prompt("Enter Key.");
